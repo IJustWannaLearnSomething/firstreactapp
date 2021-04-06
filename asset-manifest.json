@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.00f4c076.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.af771d00.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.af771d00.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.0555510d.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.0555510d.js.map",
-    "static/js/2.f33e399f.chunk.js": "/react-gh-pages/static/js/2.f33e399f.chunk.js",
-    "static/js/2.f33e399f.chunk.js.map": "/react-gh-pages/static/js/2.f33e399f.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "static/css/main.00f4c076.chunk.css.map": "/react-gh-pages/static/css/main.00f4c076.chunk.css.map",
-    "static/js/2.f33e399f.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.f33e399f.chunk.js.LICENSE.txt",
-    "static/media/Frame 19.1ea98a56.png": "/react-gh-pages/static/media/Frame 19.1ea98a56.png",
-    "static/media/index.css": "/react-gh-pages/static/media/background.00c066dc.png",
-    "static/media/s1.0a22d0af.png": "/react-gh-pages/static/media/s1.0a22d0af.png",
-    "static/media/s2.2a9f596b.png": "/react-gh-pages/static/media/s2.2a9f596b.png"
+    "main.css": "/firstreactapp/static/css/main.c82357d8.chunk.css",
+    "main.js": "/firstreactapp/static/js/main.af771d00.chunk.js",
+    "main.js.map": "/firstreactapp/static/js/main.af771d00.chunk.js.map",
+    "runtime-main.js": "/firstreactapp/static/js/runtime-main.03bb9426.js",
+    "runtime-main.js.map": "/firstreactapp/static/js/runtime-main.03bb9426.js.map",
+    "static/js/2.f33e399f.chunk.js": "/firstreactapp/static/js/2.f33e399f.chunk.js",
+    "static/js/2.f33e399f.chunk.js.map": "/firstreactapp/static/js/2.f33e399f.chunk.js.map",
+    "index.html": "/firstreactapp/index.html",
+    "static/css/main.c82357d8.chunk.css.map": "/firstreactapp/static/css/main.c82357d8.chunk.css.map",
+    "static/js/2.f33e399f.chunk.js.LICENSE.txt": "/firstreactapp/static/js/2.f33e399f.chunk.js.LICENSE.txt",
+    "static/media/Frame 19.1ea98a56.png": "/firstreactapp/static/media/Frame 19.1ea98a56.png",
+    "static/media/index.css": "/firstreactapp/static/media/background.00c066dc.png",
+    "static/media/s1.0a22d0af.png": "/firstreactapp/static/media/s1.0a22d0af.png",
+    "static/media/s2.2a9f596b.png": "/firstreactapp/static/media/s2.2a9f596b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0555510d.js",
+    "static/js/runtime-main.03bb9426.js",
     "static/js/2.f33e399f.chunk.js",
-    "static/css/main.00f4c076.chunk.css",
+    "static/css/main.c82357d8.chunk.css",
     "static/js/main.af771d00.chunk.js"
   ]
 }
